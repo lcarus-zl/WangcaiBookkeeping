@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WangcaiBookkeeping/static/css/main.1a053ee3.css",
+    "main.js": "/WangcaiBookkeeping/static/js/main.e675f90f.js",
+    "index.html": "/WangcaiBookkeeping/index.html",
+    "main.1a053ee3.css.map": "/WangcaiBookkeeping/static/css/main.1a053ee3.css.map",
+    "main.e675f90f.js.map": "/WangcaiBookkeeping/static/js/main.e675f90f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a053ee3.css",
+    "static/js/main.e675f90f.js"
+  ]
+}
